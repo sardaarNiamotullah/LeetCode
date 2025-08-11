@@ -54,25 +54,25 @@ Below is a comprehensive table of all solved problems, organized by difficulty a
 ### 📚 Easy
 
 
-1. [**1. Two Sum**](https://codeforces.com/problemset/problem/4/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/4A-Watermelon.cpp) || **Problem Tags:**`[Brute Force, Math]`
+1. [**1. Two Sum**](https://leetcode.com/problems/two-sum/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/1-Two_Sum.cpp) || **Problem Tags:**`[Array, Hash Table]`
 
-2. [**14. Longest Common Prefix**](https://codeforces.com/problemset/problem/71/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/71A-Way_Too_Long_Words.cpp) || **Problem Tag:** `[Strings]`
+2. [**14. Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/14-Longest_Common_Prefix.cpp) || **Problem Tag:** `[Array, Strings, Trie]`
 
-3. [**26. Remove Duplicates from Sorted Array**](https://codeforces.com/problemset/problem/231/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/231A-Team.cpp) || **Problem Tags:** `[Brute Force, Greedy]`
+3. [**26. Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/26-Remove_Duplicates_From_Sorted_Array.cpp) || **Problem Tags:** `[Array, Two Pointers]`
 
-4. [**217. Contains Duplicate**](https://codeforces.com/problemset/problem/282/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/282A-Bit%2B%2B.cpp) || **Problem Tag:** `[Implementation]`
+4. [**217. Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/217-Contains_Duplicate.cpp) || **Problem Tag:** `[Array, Hash Table, Sorting]`
 
-5. [**242. Valid Anagram**](https://codeforces.com/problemset/problem/185/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/185A-Next_Round.cpp) || **Problem Tags:** `[Special Problem, Implementation]`
+5. [**242. Valid Anagram**](https://leetcode.com/problems/valid-anagram/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/242-Valid_Anagram.cpp) || **Problem Tags:** `[Hash Table, String, Sorting]`
 
-6. [**1290. Convert Binary Number in a Linked List to Integer**](https://codeforces.com/contest/263/problem/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/263A-Beautiful_Matrix.cpp) || **Problem Tag:** `[Implementation]`
+6. [**1290. Convert Binary Number in a Linked List to Integer**](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/1290-Convert_Binary_Number_In_A_Linked_List_To_Integer.cpp) || **Problem Tag:** `[Linked List, Math]`
 
-7. [**3606. Coupon Code Validator**](https://codeforces.com/contest/50/problem/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/50A-Domino_Piling.cpp) || **Problem Tags:** `[Greedy, Math]`
+7. [**3606. Coupon Code Validator**](https://leetcode.com/problems/coupon-code-validator/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3606-Coupon_Code_Validator.cpp) || **Problem Tags:** `[Array, Hash Table, String, Sorting]`
 
-8. [**3622. Check Divisibility by Digit Sum and Product**](https://codeforces.com/contest/50/problem/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/50A-Domino_Piling.cpp) || **Problem Tags:** `[Greedy, Math]`
+8. [**3622. Check Divisibility by Digit Sum and Product**](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3622-Check_Divisibility_By_Digit_Sum_And_Product.cpp) || **Problem Tags:** `[Math]`
 
 
 ### 📚 Medium
 
-1. [**3612. Process String with Special Operations 1**](https://codeforces.com/problemset/problem/4/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/4A-Watermelon.cpp) || **Problem Tags:**`[Brute Force, Math]`
+1. [**3612. Process String with Special Operations 1**](https://leetcode.com/problems/process-string-with-special-operations-i/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/medium/3612-Process_String_With_Special_Operations_i.cpp) || **Problem Tags:**`[String, Simulation]`
 
-2. [**3622. Check Divisibility by digit Sum and Product**](https://codeforces.com/problemset/problem/71/A) || [**Solution: C++**](https://github.com/sardaarNiamotullah/CodeForces/blob/main/rating-800/71A-Way_Too_Long_Words.cpp) || **Problem Tag:** `[Strings]`
+2. [**3622. Check Divisibility by digit Sum and Product**](https://leetcode.com/problems/split-array-by-prime-indices/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/medium/3622-Check_Divisibility_By_Digit_Sum_And_Product.cpp) || **Problem Tag:** `[Array, Math, Number Theory]`
