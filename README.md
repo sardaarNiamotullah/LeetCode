@@ -21,7 +21,9 @@ This repository serves as a comprehensive archive of my LeetCode problem solutio
 ## 🏅 Contest Attempt: 3
 
 ## # of Problem Solved by Difficulty
-- **Easy: 8 problems**
+- **Total: 11 problems**
+
+- **Easy: 9 problems**
 - **Medium: 2 problems**
 - **Hard: 0 problem**
 
@@ -56,23 +58,25 @@ Below is a comprehensive table of all solved problems, organized by difficulty a
 
 1. [**1. Two Sum**](https://leetcode.com/problems/two-sum/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/1-Two_Sum.cpp) || **Problem Tags:**`[Array, Hash Table]`
 
-2. [**14. Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/14-Longest_Common_Prefix.cpp) || **Problem Tag:** `[Array, Strings, Trie]`
+2. [**13. Roman To Integer**](https://leetcode.com/problems/roman-to-integer/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/13-Roman_To_Integer.cpp) || **Problem Tags:** `[Hash Table, Math, String]`
 
-3. [**26. Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/26-Remove_Duplicates_From_Sorted_Array.cpp) || **Problem Tags:** `[Array, Two Pointers]`
+3. [**14. Longest Common Prefix**](https://leetcode.com/problems/longest-common-prefix/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/14-Longest_Common_Prefix.cpp) || **Problem Tag:** `[Array, Strings, Trie]`
 
-4. [**217. Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/217-Contains_Duplicate.cpp) || **Problem Tag:** `[Array, Hash Table, Sorting]`
+4. [**26. Remove Duplicates from Sorted Array**](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/26-Remove_Duplicates_From_Sorted_Array.cpp) || **Problem Tags:** `[Array, Two Pointers]`
 
-5. [**242. Valid Anagram**](https://leetcode.com/problems/valid-anagram/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/242-Valid_Anagram.cpp) || **Problem Tags:** `[Hash Table, String, Sorting]`
+5. [**217. Contains Duplicate**](https://leetcode.com/problems/contains-duplicate/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/217-Contains_Duplicate.cpp) || **Problem Tag:** `[Array, Hash Table, Sorting]`
 
-6. [**1290. Convert Binary Number in a Linked List to Integer**](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/1290-Convert_Binary_Number_In_A_Linked_List_To_Integer.cpp) || **Problem Tag:** `[Linked List, Math]`
+6. [**242. Valid Anagram**](https://leetcode.com/problems/valid-anagram/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/242-Valid_Anagram.cpp) || **Problem Tags:** `[Hash Table, String, Sorting]`
 
-7. [**3606. Coupon Code Validator**](https://leetcode.com/problems/coupon-code-validator/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3606-Coupon_Code_Validator.cpp) || **Problem Tags:** `[Array, Hash Table, String, Sorting]`
+7. [**1290. Convert Binary Number in a Linked List to Integer**](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/1290-Convert_Binary_Number_In_A_Linked_List_To_Integer.cpp) || **Problem Tag:** `[Linked List, Math]`
 
-8. [**3622. Check Divisibility by Digit Sum and Product**](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3622-Check_Divisibility_By_Digit_Sum_And_Product.cpp) || **Problem Tags:** `[Math]`
+8. [**3606. Coupon Code Validator**](https://leetcode.com/problems/coupon-code-validator/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3606-Coupon_Code_Validator.cpp) || **Problem Tags:** `[Array, Hash Table, String, Sorting]`
+
+9. [**3622. Check Divisibility by Digit Sum and Product**](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/easy/3622-Check_Divisibility_By_Digit_Sum_And_Product.cpp) || **Problem Tags:** `[Math]`
 
 
 ### 📚 Medium
 
-1. [**3612. Process String with Special Operations 1**](https://leetcode.com/problems/process-string-with-special-operations-i/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/medium/3612-Process_String_With_Special_Operations_i.cpp) || **Problem Tags:**`[String, Simulation]`
+1. [**3612. Process String with Special Operations - i**](https://leetcode.com/problems/process-string-with-special-operations-i/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/medium/3612-Process_String_With_Special_Operations_i.cpp) || **Problem Tags:**`[String, Simulation]`
 
 2. [**3622. Check Divisibility by digit Sum and Product**](https://leetcode.com/problems/split-array-by-prime-indices/description/) || [**Solution: C++**](https://github.com/sardaarNiamotullah/LeetCode/blob/main/medium/3622-Check_Divisibility_By_Digit_Sum_And_Product.cpp) || **Problem Tag:** `[Array, Math, Number Theory]`
