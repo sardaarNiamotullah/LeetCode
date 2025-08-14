@@ -1,11 +1,15 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        string palindrome = to_string(x);
+        if (x < 0 || (x % 10 == 0 && x != 0)) return false;
 
-        for(int i = 0, j = palindrome.length() - 1; i < palindrome.length()/2; i++, j--)
-            if (palindrome[i] != palindrome[j]) return false;
+        int revHalf = 0;
+        while (x > revHalf) {
+            int digit = x % 10;
+            revHalf = revHalf * 10 + digit;
+            x /= 10;
+        }
 
-        return true;
+        return (x == revHalf || x == revHalf/10);
     }
 };
